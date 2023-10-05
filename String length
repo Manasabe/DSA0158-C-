@@ -1,0 +1,9 @@
+#include<iostream>  
+using  namespace std;  
+int main()  
+{  
+string s1 = "saveetha school of engineering";  
+int len = s1.length();  
+cout<< "length of the string is : " << len;  
+return 0;  
+}   
